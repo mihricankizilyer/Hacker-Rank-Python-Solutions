@@ -28,3 +28,4 @@ for i in range(0,row):
     rlist.append(np.min(list(map(int,input().split()))))
 
 print(np.max(rlist))
+
