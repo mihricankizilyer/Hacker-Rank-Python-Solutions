@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
 
 if __name__ == '__main__':
     N = int(input())
@@ -31,7 +29,6 @@ if __name__ == '__main__':
             print(rlist) 
 
 
-# In[ ]:
 
 
 
