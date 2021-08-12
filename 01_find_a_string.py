@@ -1,3 +1,23 @@
+###############
+# Question
+###############
+
+"""
+Sample Input:
+
+x = "ABCDFDFGHBGDF"
+y = "DF"
+
+Sample Output:
+
+y occurs in x 3 times
+
+"""
+
+###############
+# Answer
+###############
+
 x = "ABCDFDFGHBGDF"
 y = "DF"
 
